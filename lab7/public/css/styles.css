@@ -31,7 +31,7 @@ input {
 }
 
 .button:hover {
-    background-color: aqua;
+    background-color: coral;
     color: black;
     letter-spacing: 0.1rem;
     
